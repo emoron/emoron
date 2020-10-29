@@ -1,7 +1,7 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Vue,Angular, Node-Express, Mysql
-- 🌱 I’m currently learning Svelte
-- 👯 I’m looking to collaborate on @alejandraeg9899
+- 🔭 I’m currently working with Alexa and DialogFlow
+- 🌱 I’m currently learning Twilio Services
+- ☠️ I’m developing on Vue,Angular, Node-Express, Mysql
 <!--
 **emoron/emoron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
